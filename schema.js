@@ -57,7 +57,6 @@ const typeDefs = gql`
 
 function checkIsUserLogged(context) {
   const { email, id } = context
-  console.log('>>> context', { context })
   // check if the user is logged
   if (!id) throw new Error('you must be logged in to perform this action')
   // find the user and check if it exists

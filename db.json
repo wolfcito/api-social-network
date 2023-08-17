@@ -11,45 +11,31 @@
   "categories": [
     {
       "id": 1,
-      "name": "cats",
-      "emoji": "🐱",
-      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1691987076/wtmf/blue-belt/5_zu0zdo.avif",
-      "path": "/photos/cats"
+      "name": "Fū",
+      "emoji": "風",
+      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1692255195/wtmf/icons/7373861_vh4joi.png",
+      "path": "/photos/fu"
     },
     {
       "id": 2,
-      "name": "dogs",
-      "emoji": "🐶",
-      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1691987075/wtmf/blue-belt/2_mbyzdr.avif",
-      "path": "/photos/dogs"
+      "name": "Rin",
+      "emoji": "林",
+      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1692255195/wtmf/icons/2364458_vubf0c.png",
+      "path": "/photos/rin"
     },
     {
       "id": 3,
-      "name": "hamsters",
-      "emoji": "🐹",
-      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1691987076/wtmf/blue-belt/4_rmaouw.avif",
-      "path": "/photos/hamsters"
+      "name": "Ka",
+      "emoji": "火",
+      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1692255195/wtmf/icons/599694_kfrnlb.png",
+      "path": "/photos/ka"
     },
     {
       "id": 4,
-      "name": "rabbits",
-      "emoji": "🐰",
-      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1691987048/wtmf/red-belt/3_ndfpci.jpg",
-      "path": "/photos/rabbits"
-    },
-    {
-      "id": 5,
-      "name": "birds",
-      "emoji": "🐦",
-      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1691987048/wtmf/red-belt/2_l3hkdz.jpg",
-      "path": "/photos/birds"
-    },
-    {
-      "id": 6,
-      "name": "fishes",
-      "emoji": "🐠",
-      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1664241131/wtmf/black-belt-1/luchadores-karate_654080-1356_shz5ts.webp",
-      "path": "/photos/fishes"
+      "name": "Zan",
+      "emoji": "山",
+      "cover": "https://res.cloudinary.com/guffenix/image/upload/v1692255195/wtmf/icons/6134853_avqc8z.png",
+      "path": "/photos/zan"
     }
   ],
   "photos": [
