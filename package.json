@@ -1,7 +1,7 @@
 {
-  "name": "curso-avanzado-graphql-server",
+  "name": "api-social-network",
   "version": "1.0.0",
-  "description": "",
+  "description": "Provider of info for Masters Promotion Register",
   "main": "index.js",
   "scripts": {
     "deploy": "now -t <tu-token>",
